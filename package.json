@@ -1,0 +1,20 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "A web application where a user can create a note, view and delete it.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Michael Olshewski",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^2.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/MichaelOlshewski/CWNoteTaker"
+  }
+}
